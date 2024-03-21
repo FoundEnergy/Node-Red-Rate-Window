@@ -1,0 +1,8 @@
+{
+    "name" : "node-rate-window",
+    "node-red" : {
+        "nodes": {
+            "rate-window": "rate-window.js"
+        }
+    }
+}
